@@ -1,0 +1,42 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: url("https://cdn.pixabay.com/photo/2018/05/30/00/24/thunderstorm-3440450__340.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.card{
+    width: 50%;
+    background: none !important;
+    border: none !important;
+}
+.name{
+    text-align: center;
+    color: #ff9068;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px black;
+    font-size: 40px;
+}
+.card-body{
+    text-align: center;
+    color: white;
+
+}
+.temp{
+    font-size: 64px;
+    font-weight: bold;
+    color: white;
+}
+.card-text{
+    font-weight: bold;
+    font-size: 55px;
+    text-transform: capitalize;
+}
+.card-title{
+    text-transform: capitalize;
+}
+img{
+    width: 50px;
+    height: 50px;
+
+}
